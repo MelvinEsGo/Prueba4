@@ -15,7 +15,7 @@
   "dependencies": {
     "@nestjs/common": "9.0.1",
     "@nestjs/core": "9.0.1",
-    "@nestjs/platform-express": "9.0.1",
+    "@nestjs/platform-express": "10.3.6",
     "@nestjs/microservices": "9.0.1",
     "@nestjs/websockets": "9.0.1",
     "reflect-metadata": "0.1.13",
